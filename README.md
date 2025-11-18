@@ -1,6 +1,4 @@
-This project implements an image compression algorithm inspired by the Kolmogorov–Arnold representation theorem.
-
-#### High-level overview (what the system does)
+#### High-level overview
 
 ```
 1. Load an input image and convert it to a grayscale tensor.
